@@ -9,7 +9,7 @@ int main(void)
     float y[10];
     printf("\x1b[34m");
     printf("****PROJECT ON STATISTIC CALCULATOR****");
-    printf("\nPRESENTED BY:\nSANKHADIP ROY\tSATYAM KUMAR SINGH\nMAAZ AHAMED\tVIVEKANANDA GORAI\n");
+    printf("\nPRESENTED BY:\nSANKHADIP ROY\n");
     printf("\x1b[32m");
     printf("Enter any key to proceed");
     getch();
