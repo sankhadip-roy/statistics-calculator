@@ -1,15 +1,22 @@
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
+#include <windows.h>
 #include "mystat.h"
 int main(void)
 {
+    system("cls");
+    system("color 7B");
     int N, i, input;
     char contd;
     float y[10];
     printf("\x1b[34m");
+    COORD c;
+    c.X=35;
+    c.Y=0;
+    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),c);
     printf("****PROJECT ON STATISTIC CALCULATOR****");
-    printf("\nPRESENTED BY:\nSANKHADIP ROY\n");
+    printf("\nPRESENTED BY:\nSANKHADIP ROY\tSATYAM KUMAR SINGH\nMAAZ AHAMED\tVIVEKANANDA GORAI\n");
     printf("\x1b[32m");
     printf("Enter any key to proceed");
     getch();
