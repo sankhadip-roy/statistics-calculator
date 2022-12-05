@@ -1,4 +1,4 @@
-                            Coding Group D PCA2 Project
+                           College Coding Group D PCA2 Project
                                
 Statistic Calculator                                 
                                 
