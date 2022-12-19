@@ -3,6 +3,7 @@
 #include <math.h>
 #include <windows.h>
 #include "mystat.h"
+
 int main(void)
 {
     system("cls");
