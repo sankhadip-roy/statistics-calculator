@@ -1,4 +1,4 @@
-                                                             College Coding Group D PCA2 Project
+                                          College Coding Group D PCA2 Project
                                
 Problem Statement:
 
