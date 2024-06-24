@@ -1,5 +1,12 @@
-                                          College 1st Year Group D PCA2 Project
+To compile in linux machine using gcc:
 
+```
+gcc stat-calc-linux.c -o <output-file-name> -lm
+```
+
+To compile in windows machine use MinGW: stat-calc-windows.c
+
+                                          College 1st Year Group D PCA2 Project
 
 `PROBLEM STATEMENT:`
 

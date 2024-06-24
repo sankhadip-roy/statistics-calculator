@@ -1,0 +1,5 @@
+# Exclude .out files, generated after compilation in Linux
+*.out
+
+# Exclude .exe files, generated after compilation in Windows
+*.exe

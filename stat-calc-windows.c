@@ -1,3 +1,4 @@
+// compile this file in windows machine
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
@@ -16,8 +17,8 @@ int main(void)
     c.X=35;
     c.Y=0;
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),c);
-    printf("****PROJECT ON STATISTIC CALCULATOR****");
-    printf("\nPRESENTED BY:\nSANKHADIP ROY\tSATYAM KUMAR SINGH\nMAAZ AHAMED\tVIVEKANANDA GORAI\n");
+    printf("****PROJECT ON STATISTICAL CALCULATOR****");
+    printf("\nAuthor : Sankhadip Roy\n");
     printf("\x1b[32m");
     printf("Enter any key to proceed");
     getch();
